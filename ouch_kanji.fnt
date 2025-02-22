@@ -1,5 +1,5 @@
 info face="ouch kanji" size=15 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
-common lineHeight=15 base=15 scaleW=576 scaleH=588 pages=1 packed=0 alphaChnl=0 redChnl=3 greenChnl=3 blueChnl=3
+common lineHeight=15 base=14 scaleW=576 scaleH=588 pages=1 packed=0 alphaChnl=0 redChnl=3 greenChnl=3 blueChnl=3
 page id=0 file="ouch_kanji.png"
 chars count=22
 char id=48 x=0 y=0 width=7 height=15 xoffset=0 yoffset=0 xadvance=7 page=0 chnl=15
@@ -56,3 +56,5 @@ char id=28961 x=546 y=0 width=14 height=15 xoffset=0 yoffset=0 xadvance=14 page=
 char id=37327 x=560 y=0 width=14 height=15 xoffset=0 yoffset=0 xadvance=14 page=0 chnl=15
 char id=22823 x=574 y=0 width=14 height=15 xoffset=0 yoffset=0 xadvance=14 page=0 chnl=15
 char id=25968 x=588 y=0 width=14 height=15 xoffset=0 yoffset=0 xadvance=14 page=0 chnl=15
+char id=153457 x=602 y=0 width=14 height=15 xoffset=0 yoffset=0 xadvance=14 page=0 chnl=15
+char id=22810 x=616 y=0 width=14 height=15 xoffset=0 yoffset=0 xadvance=14 page=0 chnl=15
